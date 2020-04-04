@@ -16,3 +16,5 @@ Including weights (K as activation function):
 
 **y**<sub>t</sub> = K(**W**<sub>x</sub><sup>T </sup>**x**<sub>t</sub> +
   **W**<sub>y</sub>**y**<sub>t-1</sub>+ **b**)
+
+This reflexivity as also called memory.
